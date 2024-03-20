@@ -51,7 +51,7 @@
 
 <div id="app">
 </div>
-@vite('resources/js/main.js')
+{{-- @vite('resources/js/main.js') --}}
 
 <script type="text/javascript" src="authenticated/js/jquery-3.4.1.min.js"></script>
 <!-- popper js -->
